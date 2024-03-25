@@ -6,3 +6,6 @@ Its clean layout and intuitive controls make it accessible to users of all level
 
 Home Page: 
 ![home](https://github.com/arqamcodes/Currency-Converter-In-JavaScript/assets/68507521/ccb0a74a-095c-4bcd-bd92-ac422f7791d5)
+
+Web Page After Currency Exchange: 
+![home 2](https://github.com/arqamcodes/Currency-Converter-In-JavaScript/assets/68507521/c317ab69-7d2b-4fd4-b5a9-53100b0847b9)
